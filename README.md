@@ -5,7 +5,7 @@
 A minimal Azure Policy set to deploy **before** a team-shared Azure subscription
 gets messy. One `main.bicep` file, one command.
 
-Zenn article (Japanese): (link will be added after publication)
+Zenn article (Japanese): https://zenn.dev/yotan/articles/azure-policy-first-move-tags
 
 ## What's included
 

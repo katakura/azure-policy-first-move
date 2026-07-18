@@ -5,7 +5,7 @@
 チームで 1 つのサブスクリプションを共同利用するときに、荒れる前に入れておく
 Azure Policy の最小セット。main.bicep 1 ファイルをデプロイするだけ。
 
-Zenn 記事: （公開後にリンクを貼る）
+Zenn 記事: https://zenn.dev/yotan/articles/azure-policy-first-move-tags
 
 ## 入っているもの
 
